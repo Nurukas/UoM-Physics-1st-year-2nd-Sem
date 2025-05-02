@@ -1,4 +1,2 @@
-# UoM Physics 1st year 2nd Semester
-Repository for preapring to final exams together  
-Feel free to publish and comment solutions of past papers or tutorial sheets  
-Interesting material on this topic aside from course content is always welcome
+# Advanced Dynamics  
+I don not have this course as my exam, so do it yourself))
